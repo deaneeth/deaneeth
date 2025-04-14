@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" alt="Robot AI" width="280"/>
+  <img src="https://raw.githubusercontent.com/deaneeth/deaneeth/main/rounded-ai-dev.gif" width="300" alt="AI Developer"/>
 </div>
 <!-- <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=9745F5&background=FFFFFF00&center=true&vCenter=true&random=false&width=600&height=100&lines=CS+Undergraduate;AI%2FML+Robotics+Enthusiast;Sophophile" alt="Typing SVG" />
@@ -155,10 +155,9 @@ my_journey()  # Currently executing...
 
 ## ✍️ Random Dev Quote
 
-<div align="center">
+<div align="center"> 
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 </div>
 
 ## 🌐 Connect With Me
