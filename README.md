@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/deaneeth/deaneeth/main/rounded-ai-dev.gif" width="300" alt="AI Developer"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="AI Developer" width="200"/>
 </div>
 <!-- <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=9745F5&background=FFFFFF00&center=true&vCenter=true&random=false&width=600&height=100&lines=CS+Undergraduate;AI%2FML+Robotics+Enthusiast;Sophophile" alt="Typing SVG" />
