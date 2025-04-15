@@ -137,15 +137,16 @@ def my_journey():
 my_journey()  # Currently executing...
 ```
 
-## 📈 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deaneeth&theme=radical&hide_border=true" width="49%" alt="GitHub Streak"/>
+  
+  ![Deaneeth's GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=deaneeth&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact"width="41%")
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deaneeth&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="41%" alt="Top Languages"/>
 </div>
 
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=deaneeth&theme=radical&hide_border=true&include_all_commits=false&count_private=false)
+![Deaneeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=deaneeth&theme=radical&&hide_border=true&&include_all_commits=false&count_private=false&layout=compact"width="41%"&show_icons=true)
 
 </div>
 
