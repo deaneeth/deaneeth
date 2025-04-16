@@ -136,6 +136,7 @@ def my_journey():
         
 my_journey()  # Currently executing...
 ```
+## 📈 GitHub Stats
 
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=deaneeth&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
