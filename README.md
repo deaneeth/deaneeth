@@ -15,7 +15,7 @@ I'm a passionate **Computer Science Undergraduate** exploring the fascinating in
 - 👨‍💻 **Building and experimenting** with Computer Vision systems and ML models
 - 🌱 Currently enhancing my skills in **Deep Learning**, **Gen AI** and **Robotics Engineering**
 - 🔭 Exploring the possibilities of **Mechatronic Engineering** and intelligent systems
-- 🚀 Aspiring to become an **AI/ML Engineer/Researcher** with focus on robotics applications
+- 🚀 Aspiring to become an **AI/ML Engineer/Researcher** with focus on **robotics applications**
 - 💡 Passionate about creating technology that can positively impact the world
 
 
