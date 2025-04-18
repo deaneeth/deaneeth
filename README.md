@@ -13,7 +13,7 @@ I'm a passionate **Computer Science Undergraduate** exploring the fascinating in
 
 - 🤖 **AI/ML & Robotics Enthusiast** working on innovative projects that combine intelligence with mechanical design
 - 👨‍💻 **Building and experimenting** with Computer Vision systems and ML models
-- 🌱 Currently enhancing my skills in **Deep Learning** and **Robotics Engineering**
+- 🌱 Currently enhancing my skills in **Deep Learning**, **Gen AI** and **Robotics Engineering**
 - 🔭 Exploring the possibilities of **Mechatronic Engineering** and intelligent systems
 - 🚀 Aspiring to become an **AI/ML Engineer/Researcher** with focus on robotics applications
 - 💡 Passionate about creating technology that can positively impact the world
@@ -70,7 +70,6 @@ I'm a passionate **Computer Science Undergraduate** exploring the fascinating in
   ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
   ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
   ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white)
-  ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=flat&logo=ros&logoColor=white)
   ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
   ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white)
 
@@ -89,7 +88,6 @@ I'm a passionate **Computer Science Undergraduate** exploring the fascinating in
   
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
   ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
-  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
@@ -98,7 +96,6 @@ I'm a passionate **Computer Science Undergraduate** exploring the fascinating in
   ### 🎨 Design & Creative Tools
   
   ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white)
-  ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white)
   ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=flat&logo=Adobe%20Lightroom%20Classic&logoColor=white)
   ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)
   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
@@ -108,9 +105,7 @@ I'm a passionate **Computer Science Undergraduate** exploring the fascinating in
   
   ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-  ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=flat&logo=travis&logoColor=white)
   ![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=flat&logo=circleci&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
   ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
   ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
@@ -136,6 +131,7 @@ def my_journey():
         
 my_journey()  # Currently executing...
 ```
+
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -148,6 +144,7 @@ my_journey()  # Currently executing...
 ![Deaneeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=deaneeth&theme=radical&&hide_border=true&&include_all_commits=false&count_private=false&layout=compact"width="41%"&show_icons=true)
 </div>
 
+
 ## ✍️ Random Dev Quote
 
 <div align="center"> 
@@ -156,7 +153,7 @@ my_journey()  # Currently executing...
 </div>
 
 ## 🌐 Connect With Me
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Dineth.Nethusahan.sika) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/deaneeth) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/deaneeth) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deaneeth) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Deaneeth_) 
