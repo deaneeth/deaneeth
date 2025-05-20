@@ -115,8 +115,8 @@ I'm a passionate **Computer Science Undergraduate** exploring the fascinating in
 
 ```python
 def my_journey():
-    skills = ["AI", "ML", "Robotics", "Computer Vision", "Mechatronics"]
-    goals = ["AI/ML Engineer", "Robotics Researcher", "Innovation Leader"]
+    skills = ["AI", "ML", "Robotics", "Computer Vision", "IoT", "Edge Computing"]
+    goals = ["AI/ML Engineer", "MLOps Engineer", "Robotics Researcher", "Innovation Leader"]
     passion = float('inf')
     
     while passion > 0:
