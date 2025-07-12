@@ -86,6 +86,7 @@ I'm a passionate **Computer Science Undergraduate** exploring the fascinating in
   ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
+  ![Seaborn](https://img.shields.io/badge/Seaborn-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 
@@ -103,8 +104,8 @@ I'm a passionate **Computer Science Undergraduate** exploring the fascinating in
 
 ```python
 def my_journey():
-    skills = ["AI", "ML", "Robotics", "Computer Vision", "IoT", "Edge Computing"]
-    goals = ["AI/ML Engineer", "MLOps Engineer", "Robotics Researcher", "Innovation Leader"]
+    skills = ["AI", "ML", "Robotics", "Computer Vision", "IoT",  "Agentic AI", "NLP", "Edge Computing"]
+    goals = ["AI/ML Engineer", "MLOps/LLMOps Engineer", "Robotics Researcher", "Innovation Leader"]
     passion = float('inf')
     
     while passion > 0:
