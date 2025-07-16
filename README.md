@@ -131,12 +131,12 @@ my_journey()  # Currently executing...
 </div>
 
 
-## ✍️ Random Dev Quote
+ <!-- ## ## ✍️ Random Dev Quote
 
 <div align="center"> 
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</div>
+</div> -->
 
 ## 🌐 Connect With Me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/deaneeth) 
