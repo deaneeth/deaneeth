@@ -9,7 +9,7 @@
 
 ## 🧠 About Me
 
-I'm a passionate **Computer Science Undergraduate** exploring the fascinating intersection of AI, Machine Learning, and Robotics. As a dedicated **Sophophile** (lover of knowledge), I'm constantly learning and expanding my horizons in the tech world.
+I'm a **Computer Science Undergraduate** exploring the fascinating intersection of AI, Machine Learning, and Robotics. As a dedicated **Sophophile** (lover of knowledge), I'm constantly learning and expanding my horizons in the tech world.
 
 - 🤖 **AI/ML & Robotics Enthusiast** working on innovative projects that combine intelligence with mechanical design
 - 👨‍💻 **Building and experimenting** with Computer Vision systems and ML models
