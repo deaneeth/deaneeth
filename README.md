@@ -40,10 +40,8 @@ I'm a **Computer Science Undergraduate** exploring the fascinating intersection 
   ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-  ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
   
-
   ### ☁️ Cloud & Hosting
   
   ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
@@ -66,6 +64,7 @@ I'm a **Computer Science Undergraduate** exploring the fascinating intersection 
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
   ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
   ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+  ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff)
   ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
   ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
   ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white)
@@ -89,6 +88,7 @@ I'm a **Computer Science Undergraduate** exploring the fascinating intersection 
   ![Seaborn](https://img.shields.io/badge/Seaborn-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+  ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)
 
   ### 🔧 DevOps & Tools
   
