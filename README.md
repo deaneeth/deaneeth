@@ -96,8 +96,10 @@ my_journey()  # Currently executing...
 ## 📈 GitHub Stats
 
 <div align="center">
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deaneeth&theme=radical&hide_border=true" alt="streaks">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deaneeth&theme=radical&hide_border=true&layout=compact" width="41%" alt="top languages">
+  
 </div>
 
 <div align="center">
