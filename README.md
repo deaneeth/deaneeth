@@ -80,7 +80,7 @@ Computer Science undergrad focused on **AI/ML and robotics** - building small, f
 ```python
 def my_journey():
     skills = ["AI", "ML", "Robotics", "Computer Vision", "IoT",  "Agentic AI", "NLP", "Edge Computing"]
-    goals = ["AI/ML Engineer", "MLOps/LLMOps Engineer", "Robotics Researcher", "Innovation Leader"]
+    goals = ["AI/ML Engineer", "MLOps/LLMOps Engineer", "Robotics Researcher"]
     passion = float('inf')
     
     while passion > 0:
