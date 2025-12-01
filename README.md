@@ -3,15 +3,33 @@
 
 </div>
 
+<p align="center">
+  <a href="https://buymeacoffee.com/deaneeth"><img src="https://img.shields.io/badge/DONATE-FFDD00?style=flat&logo=buymeacoffee&logoColor=black" alt="Donate"></a>
+  <a href="https://deaneeth.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://x.com/Deaneeth_"><img src="https://img.shields.io/badge/TWITTER-000000?style=flat&logo=x&logoColor=white" alt="Twitter"></a>
+  <a href="https://linkedin.com/in/deaneeth"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://deaneeth.substack.com"><img src="https://img.shields.io/badge/SUBSTACK-000000?style=flat&logo=substack&logoColor=white" alt="Substack"></a>
+  <a href="https://medium.com/@deaneeth"><img src="https://img.shields.io/badge/MEDIUM-000000?style=flat&logo=medium&logoColor=white" alt="Medium"></a>
+</p>
+
 ## 🧠 About Me
 
 Computer Science undergrad focused on **AI/ML and robotics** - building small, fast systems at the edge and solid training/inference pipelines in the cloud. I like shipping useful demos more than collecting badges.
 
-- 🤖 **AI/ML & Robotics Enthusiast** working on innovative projects that combine intelligence with mechanical design
-- 👨‍💻 **Building and experimenting** with Computer Vision systems and ML models
-- 🌱 Currently enhancing my skills in **Deep Learning**, **Gen AI** and **Robotics Engineering**
-- 🚀 Aspiring to become an **AI/ML Engineer/Researcher** with focus on **robotics applications**
-- 💡 Passionate about creating technology that can positively impact the world
+- 🤖 **Building AI/ML systems** – from lightweight edge deployments to production-grade cloud pipelines with MLOps
+- 🔬 **Currently exploring** Deep Learning, Generative AI, and end-to-end MLOps workflows
+- 🛠️ **Love combining software with hardware** – IoT sensors, robotics, embedded systems, and real-time data
+- 🎯 **Goal:** Become an AI/ML Engineer with a strong focus on robotics and edge computing
+- 💡 **Open to collaborations** on impactful tech projects – let's build something cool together!
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**Telco Churn MLOps Pipeline**](https://github.com/deaneeth/telco-churn-mlops-pipeline) | Production-grade MLOps pipeline for customer churn prediction with Kafka streaming & Airflow orchestration. 84.66% ROC-AUC, 8.2ms inference latency. | `Python` `MLflow` `Kafka` `Airflow` `Docker` |
+| [**Smart Beehive Monitor**](https://github.com/deaneeth/Smart-Beehive-Monitor) | ESP32-based IoT system for real-time beehive monitoring with Firebase integration. Tracks temperature, humidity, bee activity, and weight. | `ESP32` `IoT` `Firebase` `PlatformIO` |
+| [**Gait Authentication System**](https://github.com/deaneeth/Acceleration-based-User-Authentication) | Behavioral biometric authentication using walking patterns. Achieved 3.43% EER with 92.68% accuracy using multi-sensor fusion. | `MATLAB` `Deep Learning` `Signal Processing` |
+| [**TinyGPU**](https://github.com/deaneeth/tinygpu) | Educational GPU simulator demonstrating SIMT architecture with per-thread registers, synchronization barriers, and visual execution. | `Python` `GPU Architecture` `Visualization` |
 
 ## 💻 Tech Stack & Expertise
 
@@ -36,34 +54,34 @@ Computer Science undergrad focused on **AI/ML and robotics** - building small, f
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-5C3EE8.svg?style=flat&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c.svg?style=flat&logo=plotly&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=000)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=jupyter&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900.svg?style=flat&logo=nvidia&logoColor=white)
 ![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-76B900.svg?style=flat&logo=nvidia&logoColor=white)
 
 ### 🔧 DevOps & Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ### ☁️ Cloud & Hosting
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
 
 ### 🧩 Frameworks & Libraries
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
@@ -100,24 +118,19 @@ my_journey()  # Currently executing...
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deaneeth&theme=radical&hide_border=true" alt="streaks">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deaneeth&theme=radical&hide_border=true&layout=compact" width="41%" alt="top languages">
   
-![Deaneeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=deaneeth&theme=radical&&hide_border=true&&include_all_commits=false&count_private=false&layout=compact"width="41%"&show_icons=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=deaneeth&theme=radical&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" width="41%" alt="github stats">
 </div>
 
+## 🌍 Find Me Around The Web
 
- <!-- ## ## ✍️ Random Dev Quote
-
-<div align="center"> 
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</div> -->
-
-## 🌐 Connect With Me
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/deaneeth) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/deaneeth) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deaneeth) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Deaneeth_) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@cybersika) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dnethusahan.h05@gmail.com)
+<p align="center">
+  <a href="https://linkedin.com/in/deaneeth"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://x.com/Deaneeth_"><img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white" alt="Twitter"></a>
+  <a href="https://instagram.com/deaneeth"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.facebook.com/deaneeth"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://youtube.com/@cybersika"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="mailto:dnethusahan.h05@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
  <!-- ## 💰 Support My Work
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@DANEHETTIARACHCHI) 
