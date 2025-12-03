@@ -115,10 +115,11 @@ my_journey()  # Currently executing...
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deaneeth&theme=radical&hide_border=true" alt="streaks">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deaneeth&theme=radical&hide_border=true&layout=compact" width="41%" alt="top languages">
+  <img src="https://github-readme-stat-self.vercel.app/?user=deaneeth&theme=radical&hide_border=true" alt="streaks">
+  <img src="https://github-readme-stat-self.vercel.app/api/top-langs/?username=deaneeth&theme=radical&hide_border=true&layout=compact" width="41%" alt="top languages">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=deaneeth&theme=radical&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" width="41%" alt="github stats">
+  <img src="https://github-readme-stat-self.vercel.app/api?username=deaneeth&theme=radical&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" width="41%" alt="github stats">
+  
 </div>
 
 ## 🌍 Find Me Around The Web
