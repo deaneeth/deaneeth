@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://buymeacoffee.com/deaneeth"><img src="https://img.shields.io/badge/DONATE-FFDD00?style=flat&logo=buymeacoffee&logoColor=black" alt="Donate"></a>
-  <a href="https://deaneeth.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://deaneeth.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-7700c7?style=flat&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="https://x.com/Deaneeth_"><img src="https://img.shields.io/badge/TWITTER-000000?style=flat&logo=x&logoColor=white" alt="Twitter"></a>
   <a href="https://linkedin.com/in/deaneeth"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://deaneeth.substack.com"><img src="https://img.shields.io/badge/SUBSTACK-000000?style=flat&logo=substack&logoColor=white" alt="Substack"></a>
@@ -115,11 +115,10 @@ my_journey()  # Currently executing...
 
 <div align="center">
   
-  <img src="https://github-readme-stat-self.vercel.app/?user=deaneeth&theme=radical&hide_border=true" alt="streaks">
-  <img src="https://github-readme-stat-self.vercel.app/api/top-langs/?username=deaneeth&theme=radical&hide_border=true&layout=compact" width="41%" alt="top languages">
-  
-  <img src="https://github-readme-stat-self.vercel.app/api?username=deaneeth&theme=radical&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" width="41%" alt="github stats">
-  
+  [![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=deaneeth&theme=radical&hide_border=true)](https://git.io/streak-stats)
+  <img src="https://github-readme-stat-self.vercel.app/api/top-langs/?username=deaneeth&theme=radical&hide_border=true&layout=compact"  width="35%"  alt="top languages">
+  <img src="https://github-readme-stat-self.vercel.app/api?username=deaneeth&theme=radical&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" width="50%" alt="github stats">
+
 </div>
 
 ## 🌍 Find Me Around The Web
