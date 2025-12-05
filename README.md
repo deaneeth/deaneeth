@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <a href="https://buymeacoffee.com/deaneeth"><img src="https://img.shields.io/badge/DONATE-FFDD00?style=flat&logo=buymeacoffee&logoColor=black" alt="Donate"></a>
+  <a href="https://buymeacoffee.com/deaneeth1"><img src="https://img.shields.io/badge/DONATE-FFDD00?style=flat&logo=buymeacoffee&logoColor=black" alt="Donate"></a>
   <a href="https://deaneeth.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-7700c7?style=flat&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="https://x.com/Deaneeth_"><img src="https://img.shields.io/badge/TWITTER-000000?style=flat&logo=x&logoColor=white" alt="Twitter"></a>
   <a href="https://linkedin.com/in/deaneeth"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
