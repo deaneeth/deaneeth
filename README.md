@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=800&color=9745F5&center=true&vCenter=true&width=650&lines=Hey+there,+I'm+Dineth+%F0%9F%91%8B;AI%2FML+%2B+Robotics+%2B+IoT+Builder;Computer+Vision+%7C+Edge+AI+%7C+MLOps" alt="Dineth – AI/ML + Robotics">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=800&color=9745F5&center=true&vCenter=true&width=650&lines=Hey+there,+I'm+Dineth+%F0%9F%91%8B;AI%2FML+%2B+Robotics+%2B+IoT+Developer;Computer+Vision+%7C+Edge+AI+%7C+MLOps" alt="Dineth – AI/ML + Robotics">
 
 </div>
 
