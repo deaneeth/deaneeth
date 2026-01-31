@@ -93,6 +93,7 @@ Computer Science undergrad focused on **AI/ML and robotics** - building small, f
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 
+<!--
 ## 🌟 My Vision
 
 ```python
@@ -109,7 +110,7 @@ def my_journey():
         passion += 1  # Passion only grows with time!
         
 my_journey()  # Currently executing...
-```
+``` -->
 
 ## 📈 GitHub Stats
 
