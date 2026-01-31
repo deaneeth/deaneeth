@@ -133,6 +133,12 @@ my_journey()  # Currently executing...
   <a href="mailto:dnethusahan.h05@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
+<div align="center">
+  
+![](https://komarev.com/ghpvc/?username=deaneeth&color=blueviolet&style=flat&abbreviated=true)
+</div>
+
+
  <!-- ## 💰 Support My Work
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@DANEHETTIARACHCHI) 
 
