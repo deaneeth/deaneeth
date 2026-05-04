@@ -4,8 +4,8 @@
 </div>
 
 <p align="center">
-  <a href="https://buymeacoffee.com/deaneeth1"><img src="https://img.shields.io/badge/DONATE-FFDD00?style=flat&logo=buymeacoffee&logoColor=black" alt="Donate"></a>
   <a href="https://deaneeth.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-7700c7?style=flat&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://buymeacoffee.com/deaneeth1"><img src="https://img.shields.io/badge/DONATE-FFDD00?style=flat&logo=buymeacoffee&logoColor=black" alt="Donate"></a>
   <a href="https://x.com/Deaneeth_"><img src="https://img.shields.io/badge/TWITTER-000000?style=flat&logo=x&logoColor=white" alt="Twitter"></a>
   <a href="https://linkedin.com/in/deaneeth"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://deaneeth.substack.com"><img src="https://img.shields.io/badge/SUBSTACK-000000?style=flat&logo=substack&logoColor=white" alt="Substack"></a>
@@ -22,6 +22,7 @@ Computer Science undergrad focused on **AI/ML and robotics** - building small, f
 - 🎯 **Goal:** Become an AI/ML Engineer with a strong focus on robotics and edge computing
 - 💡 **Open to collaborations** on impactful tech projects – let's build something cool together!
 
+<!--
 ## 🚀 Featured Projects
 
 | Project | Description | Tech |
@@ -30,6 +31,7 @@ Computer Science undergrad focused on **AI/ML and robotics** - building small, f
 | [**Smart Beehive Monitor**](https://github.com/deaneeth/Smart-Beehive-Monitor) | ESP32-based IoT system for real-time beehive monitoring with Firebase integration. Tracks temperature, humidity, bee activity, and weight. | `ESP32` `IoT` `Firebase` `PlatformIO` |
 | [**Gait Authentication System**](https://github.com/deaneeth/Acceleration-based-User-Authentication) | Behavioral biometric authentication using walking patterns. Achieved 3.43% EER with 92.68% accuracy using multi-sensor fusion. | `MATLAB` `Deep Learning` `Signal Processing` |
 | [**TinyGPU**](https://github.com/deaneeth/tinygpu) | Educational GPU simulator demonstrating SIMT architecture with per-thread registers, synchronization barriers, and visual execution. | `Python` `GPU Architecture` `Visualization` |
+-->
 
 ## 💻 Tech Stack & Expertise
 
