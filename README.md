@@ -1,3 +1,39 @@
+# Dineth Hettiarachchi
+
+**AI/ML Systems Engineer** building production machine learning, data, software, and edge systems.
+
+I design end-to-end intelligent systems, from data pipelines, model development, and MLOps infrastructure to APIs, real-time applications, embedded devices, and compute architecture. My work spans applied AI, data engineering, parallel computing, edge AI, IoT, robotics, and open-source developer tools.
+
+[Portfolio](https://deaneeth.vercel.app) · [LinkedIn](https://www.linkedin.com/in/deaneeth) · [X](https://x.com/Deaneeth_) · [Medium](https://deaneeth.medium.com) · [Substack](https://deaneeth.substack.com) · [Email](mailto:dnethusahan.h05@gmail.com)
+
+## Selected work
+
+- [**TinyGPU**](https://github.com/deaneeth/tiny-gpu) — a Python GPU architecture simulator that makes SIMT execution, memory, synchronization, and parallel computing visible.
+- [**TinyTPU**](https://github.com/deaneeth/tiny-tpu) — a SystemVerilog systolic-array accelerator compiled to WebAssembly and visualized live in the browser.
+- [**Telco Churn MLOps Pipeline**](https://github.com/deaneeth/telco-churn-mlops-pipeline) — an end-to-end machine learning system using MLflow, PySpark, Kafka, Airflow, and Dockerized inference.
+- [**Smart Beehive Monitoring System**](https://github.com/deaneeth/smart-beehive-monitor) — a solar-powered ESP32 IoT platform connected to Firebase and a [React/TypeScript monitoring dashboard](https://github.com/deaneeth/smart-beehive-dashboard).
+- [**Multi-Omics Cancer Subtype Classifier**](https://github.com/deaneeth/multi-omics-cancer-subtype-classifier) — an explainable AI workflow combining XGBoost, PyTorch, biological pathways, SHAP, and integrated gradients.
+- [**Airbnb Market Intelligence Pipeline**](https://github.com/deaneeth/airbnb-market-intelligence-pipeline) — a reproducible data engineering and analytics pipeline built with DuckDB, Parquet, data-quality checks, statistics, machine learning, and Streamlit.
+
+## Core areas
+
+`Machine Learning` · `MLOps` · `Data Engineering` · `AI Systems` · `Parallel Computing` · `GPU/TPU Architecture` · `Edge AI` · `Embedded Systems` · `IoT`
+
+Primary tools include Python, PyTorch, scikit-learn, Apache Spark, FastAPI, Docker, TypeScript, C++, SystemVerilog, and cloud-native data infrastructure.
+
+## Writing and contact
+
+I write about building practical AI/ML systems, parallel computing, embedded engineering, and the decisions behind end-to-end projects on [Medium](https://deaneeth.medium.com) and [Substack](https://deaneeth.substack.com).
+
+For engineering opportunities, open-source collaboration, or technical discussion, reach me through [LinkedIn](https://www.linkedin.com/in/deaneeth) or [email](mailto:dnethusahan.h05@gmail.com).
+
+<!--
+PREVIOUS README ARCHIVE
+
+The full previous README is preserved below.
+To restore it, remove the outer archive comment and replace each `&#45;` entity with `-`,
+`&lt;` with `<`, and `&gt;` with `>`.
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=800&color=9745F5&center=true&vCenter=true&width=650&lines=Hey+there,+I'm+Dineth+%F0%9F%91%8B;AI%2FML+%2B+Robotics+%2B+IoT+Developer;Computer+Vision+%7C+Edge+AI+%7C+MLOps" alt="Dineth – AI/ML + Robotics">
 
@@ -22,16 +58,16 @@ Computer Science undergrad focused on **AI/ML and robotics** - building small, f
 - 🎯 **Goal:** Become an AI/ML Engineer with a strong focus on robotics and edge computing
 - 💡 **Open to collaborations** on impactful tech projects – let's build something cool together!
 
-<!--
+&lt;!&#45;&#45;
 ## 🚀 Featured Projects
 
 | Project | Description | Tech |
-|---------|-------------|------|
+|&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;|&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;|&#45;&#45;&#45;&#45;&#45;&#45;|
 | [**Telco Churn MLOps Pipeline**](https://github.com/deaneeth/telco-churn-mlops-pipeline) | Production-grade MLOps pipeline for customer churn prediction with Kafka streaming & Airflow orchestration. 84.66% ROC-AUC, 8.2ms inference latency. | `Python` `MLflow` `Kafka` `Airflow` `Docker` |
 | [**Smart Beehive Monitor**](https://github.com/deaneeth/Smart-Beehive-Monitor) | ESP32-based IoT system for real-time beehive monitoring with Firebase integration. Tracks temperature, humidity, bee activity, and weight. | `ESP32` `IoT` `Firebase` `PlatformIO` |
 | [**Gait Authentication System**](https://github.com/deaneeth/Acceleration-based-User-Authentication) | Behavioral biometric authentication using walking patterns. Achieved 3.43% EER with 92.68% accuracy using multi-sensor fusion. | `MATLAB` `Deep Learning` `Signal Processing` |
 | [**TinyGPU**](https://github.com/deaneeth/tinygpu) | Educational GPU simulator demonstrating SIMT architecture with per-thread registers, synchronization barriers, and visual execution. | `Python` `GPU Architecture` `Visualization` |
--->
+&#45;&#45;&gt;
 
 ## 💻 Tech Stack & Expertise
 
@@ -55,7 +91,7 @@ Computer Science undergrad focused on **AI/ML and robotics** - building small, f
 ### 🧪 ML & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit&#45;&#45;learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-5C3EE8.svg?style=flat&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
@@ -95,7 +131,7 @@ Computer Science undergrad focused on **AI/ML and robotics** - building small, f
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 
-<!--
+&lt;!&#45;&#45;
 ## 🌟 My Vision
 
 ```python
@@ -112,7 +148,7 @@ def my_journey():
         passion += 1  # Passion only grows with time!
         
 my_journey()  # Currently executing...
-``` -->
+``` &#45;&#45;&gt;
 
 ## 📈 GitHub Stats
 
@@ -140,7 +176,8 @@ my_journey()  # Currently executing...
 </div>
 
 
- <!-- ## 💰 Support My Work
+ &lt;!&#45;&#45; ## 💰 Support My Work
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@DANEHETTIARACHCHI) 
 
-<!-- Profile inspired by awesome GitHub community. Created with 💜 by Dineth -->
+&lt;!&#45;&#45; Profile inspired by awesome GitHub community. Created with 💜 by Dineth &#45;&#45;&gt;
+-->
