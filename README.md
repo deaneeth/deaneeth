@@ -1,6 +1,6 @@
 # Hello, I'm [Dineth](https://github.com/deaneeth)
 
-I'm **Dineth Hettiarachchi**, an AI/ML systems engineer building end-to-end systems across machine learning, data engineering, software, and edge computing.
+I'm an AI/ML systems engineer building end-to-end systems across machine learning, data engineering, software, and edge computing.
 
 My work connects models, data, and hardware. I build MLOps and analytics pipelines, GPU and TPU architecture simulators, embedded IoT platforms, and applied AI systems that are understandable, testable, and useful beyond the demo.
 
@@ -16,7 +16,7 @@ My work connects models, data, and hardware. I build MLOps and analytics pipelin
 
 **AI/ML and MLOps** · **Data and software systems** · **Parallel and edge computing**
 
-Python, PyTorch, Apache Spark, FastAPI, Docker, TypeScript, C++, and SystemVerilog.
+`Python`, `PyTorch`, `Tensorflow`, `Apache Spark`, `FastAPI`, `Docker`, `TypeScript`, `C++`, and `SystemVerilog`.
 
 ## Elsewhere
 
