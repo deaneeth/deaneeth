@@ -16,7 +16,7 @@ My work connects models, data, and hardware. I build MLOps and analytics pipelin
 
 **AI/ML and MLOps** · **Data and software systems** · **Parallel and edge computing**
 
-`Python`, `PyTorch`, `Tensorflow`, `Apache Spark`, `FastAPI`, `Docker`, `TypeScript`, `C++`, and `SystemVerilog`.
+`Python` · `PyTorch` · `scikit-learn` · `SQL` · `MLflow` · `Apache Spark` · `Kafka` · `Airflow` · `FastAPI` · `Docker` · `C++` · `SystemVerilog`
 
 ## Elsewhere
 
