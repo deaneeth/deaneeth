@@ -4,7 +4,7 @@ I'm an AI/ML systems engineer building end-to-end systems across machine learnin
 
 My work connects models, data, and hardware. I build MLOps and analytics pipelines, GPU and TPU architecture simulators, embedded IoT platforms, and applied AI systems that are understandable, testable, and useful beyond the demo.
 
-[Portfolio](https://deaneeth.vercel.app) · [LinkedIn](https://www.linkedin.com/in/deaneeth) · [X](https://x.com/Deaneeth_) · [Medium](https://deaneeth.medium.com) · [Substack](https://deaneeth.substack.com)
+[Portfolio](https://deaneeth.dev/) · [LinkedIn](https://www.linkedin.com/in/deaneeth) · [X](https://x.com/Deaneeth_) · [Medium](https://deaneeth.medium.com) · [Substack](https://deaneeth.substack.com)
 
 ## What I build
 
