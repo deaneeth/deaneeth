@@ -1,4 +1,4 @@
-# Hello, I'm [Dineth](https://github.com/deaneeth)
+# Hey, I'm Dineth 👋
 
 I'm an AI/ML systems engineer building end-to-end systems across machine learning, data engineering, software, and edge computing.
 
